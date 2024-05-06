@@ -1,0 +1,35 @@
+.body{
+    color:#666;
+}
+.header{
+    height:200px;
+}
+.content{
+    height:350px;
+}
+.footer{
+    height:100px;
+}
+.logo{
+    margin:20px;
+}
+.box{
+    width:400px;
+    height:30px;
+}
+.find{
+    width:100px;
+    height:35px;
+}
+.bk{
+    margin:30px;
+}
+.ch{
+    margin:100px;
+}
+.ws{
+    margin:20px;
+}
+.search{
+    margin:20px;
+}
