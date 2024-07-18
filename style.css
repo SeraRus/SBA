@@ -1,6 +1,13 @@
 .body{
     color:#666;
 }
+.title{
+    font-size:xx-large;
+}
+.mint{
+    font-size: smaller;
+    color: #666666;
+}
 .header{
     height:200px;
 }
@@ -32,4 +39,9 @@
 }
 .search{
     margin:20px;
+}
+.bottom{
+    position: fixed;
+    bottom: 0;
+    display: flex;
 }
